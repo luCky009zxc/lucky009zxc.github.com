@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: url(../css/image-8qlwi4vz.png);
+}
+.first-container{
+    width: 1000px;
+    height: 1000px;
+    background: #1CDC3A url(../img/img12.jpg) no-repeat;
+    /* background-repeat: no-repeat; */
+    border: 1px solid black;
+    /* background-position: center; */
+    /* background-color:purple; */
+    background-size: cover;
+}
+.google{
+display:block;
+font-size: 32px;
+margin:40px;
+
+
+}
+.google:visited{
+color:#0dff00
+}
+
+.google
